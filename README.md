@@ -22,4 +22,4 @@ Among many possibilities, some applications were identified and explored such as
 - With the transfer learning technique it was possible to use existing knowledge to boost the performance of a new model used on a related task
 - The eye classification model was trained using a very diverse and complete database, which made it more robust and allowed it to achieve an accuracy of 98%
 - The biggest challenges faced are related to the quality of the captured image and to the difficulty of producing fast and accurate results at the same time
-- The work developed was successfully applied in some real-life examples and, from one of them, an app was created (removed from the project due to a patenting process)
+- The work developed was successfully applied in some real-life examples and, from one of them, an app was created (removed from this repository due to a patenting process)
