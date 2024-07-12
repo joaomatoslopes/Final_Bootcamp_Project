@@ -15,6 +15,10 @@ For eye classification it was applied the transfer learning technique. This is a
 Among many possibilities, some applications were identified and explored such as:
 - Alarm sounds when a security guard falls asleep
 - Vehicle stops when the driver passes out 
+- Movie pauses when the viewer falls asleep
+
+#### Pause4Sleep app
+For this last situation, it was created an application that was designed to pause a video when it detects that someone falls asleep in front of the laptop's screen. That application is available for *Windows* operating systems and can be used in offline media players and online platforms like *YouTube*, *Netflix*, and *HBO*. The app is named **Pause4Sleep** and can be downloaded from the website **pause4sleep.com**, created only for that purpose. On that site it can be founded more information about the app in the "About" section.
 
 ## Conclusions
 - Although Haar Cascades is not the most accurate object detection algorithm, it’s really fast, making it possible to apply it to real-time video streams
@@ -22,4 +26,4 @@ Among many possibilities, some applications were identified and explored such as
 - With the transfer learning technique it was possible to use existing knowledge to boost the performance of a new model used on a related task
 - The eye classification model was trained using a very diverse and complete database, which made it more robust and allowed it to achieve an accuracy of 98%
 - The biggest challenges faced are related to the quality of the captured image and to the difficulty of producing fast and accurate results at the same time
-- The work developed was successfully applied in some real-life examples and, from one of them, an app was created (removed from this repository due to a patenting process)
+- The work developed was successfully applied in some real-life examples and, from on of the them, the Pause4Sleep application was born
